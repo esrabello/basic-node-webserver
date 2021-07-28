@@ -5,7 +5,7 @@ To run this webserver take the following steps:
 
 1. Go to directory 'webserver/script' in your terminal window.
 2. Run 'node webserver.js' and the following message will be prompted: 'Server running at http://localhost:3000'.
-3. Open any browser and go to (http://localhost:3000)[http://localhost:3000] and a webpage will be loaded.
+3. Open any browser and go to http://localhost:3000 and a webpage will be loaded.
 4. If you click on "Books" or "Authors" a JSON strinfied document will open.
 5. Press RETURN to go back to homepage.
 
