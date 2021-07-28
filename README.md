@@ -9,4 +9,4 @@ To run this webserver take the following steps:
 4. If you click on "Books" or "Authors" a JSON strinfied document will open.
 5. Press RETURN to go back to homepage.
 
-* P.S.: The 'style.css' document is not being used yet. All CSS used is in page 'index.html'.*
+*P.S.: The 'style.css' document is not being used yet. All CSS used is in page 'index.html'.*
